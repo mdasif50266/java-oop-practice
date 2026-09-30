@@ -1,4 +1,4 @@
-package odd_even_classsifier;
+package odd_even_classsifier_01;
 
 public class OddEvenDriver {
     public boolean isOdd(int x)
