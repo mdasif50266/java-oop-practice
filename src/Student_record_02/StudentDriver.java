@@ -1,4 +1,4 @@
-package Student_record_2;
+package Student_record_02;
 
 public class StudentDriver {
     public static void main(String[] args) {
